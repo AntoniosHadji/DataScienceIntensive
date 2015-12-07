@@ -1,0 +1,12 @@
+**/.RData
+**/*_cache
+data
+.Rproj.user
+.Rhistory
+*.mp4
+*.png
+.ipynb_checkpoints
+*.xlsx
+*.h5
+*.csv
+
