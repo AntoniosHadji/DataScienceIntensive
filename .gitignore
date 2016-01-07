@@ -10,3 +10,5 @@ data
 *.h5
 *.csv
 *apikey.py*
+# compiled python
+*.pyc
